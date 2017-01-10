@@ -1,2 +1,2 @@
 # EscapeToMars
-a game I made in my personal time
+a game I'm working on in my personal time
